@@ -1,4 +1,3 @@
-# Capstone Project Documentation
 
 ### Project Tittle  Sales Performance Analysis for a Retail Store
 
